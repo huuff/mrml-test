@@ -1,0 +1,8 @@
+[package]
+name = "mrml-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# mrml = { git = "https://github.com/jdrouet/mrml", rev = "85cf13c972e497abfbe9fdea4ce7b05544956cde" }
+mrml = { git = "https://github.com/huuff/mrml", rev = "d795169aa440a2d0589dbbca1b6ded70c0d4bbb3" }
